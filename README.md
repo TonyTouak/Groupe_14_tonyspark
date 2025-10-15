@@ -63,7 +63,6 @@ The final model:
 - Logistic Regression, when properly optimized, remains a competitive baseline for structured tabular data.
 - Ensemble and threshold optimization provide marginal but meaningful gains.
 
-
 ## Team Members
 
 - **Tony TOUAK**  
@@ -72,6 +71,3 @@ The final model:
 - **Nerva SONCY**  
 - **Fadi AL MIKDAD**  
 - **Alban VILLAIN**
-
-## Repository Structure
-
